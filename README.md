@@ -1,8 +1,6 @@
 # WPPLAdblockRequestRemover
 Skrypt do usuwania overlaya z prośbą o wyłączenie Adblocka na WP.PL
 
-Skrypt usuwa obverlaya z prośbą o wyłączenie Adblocka na stronach WP.PL.
-
 Instalacja:
 1. Skopiuj treść z pliku script.js
 2. W przeglądarce utwórz nową zakładkę (najlepiej dostępną na pasku zakładek)
