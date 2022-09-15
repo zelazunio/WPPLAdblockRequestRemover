@@ -1,0 +1,1 @@
+javascript: (()=>{wholeDom=document.getElementsByTagName("*");searchedElement=Object.values(wholeDom).filter(el=>{style=window.getComputedStyle(el,':before');content=style['content'];return content.search(/p.*a.*s.*j.*a/)>0?true:false});searchedElement=searchedElement[0];searchedElement.parentElement.parentElement.parentElement.parentElement.remove()})();
